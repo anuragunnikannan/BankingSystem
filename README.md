@@ -1,2 +1,2 @@
 # BankingSystem
-A simple banking system program using C-Programming
+A simple banking system program using C-language
